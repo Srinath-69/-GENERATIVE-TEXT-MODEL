@@ -54,3 +54,4 @@ Education and Research: Helps researchers to generate abstracts, academic summar
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/489ccdd6-167a-4147-be81-24fd7ca04cc3)
